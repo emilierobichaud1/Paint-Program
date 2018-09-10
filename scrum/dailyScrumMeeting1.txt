@@ -1,0 +1,79 @@
+# Fill in, commit and push each day.
+# Group Member: Emilie Robichaud
+
+Nov 22, 2017
+	Yesterday : No work done.
+	Today     : No work done.
+	Obstacles : None.
+
+Nov 23, 2017
+	Yesterday : No work done.
+	Today     : No work done.
+	Obstacles : None.
+
+Nov 24, 2017
+	Yesterday : No work done.
+	Today     : No work done.
+	Obstacles : None. 
+
+
+Nov 25, 2017
+	Yesterday : No work done.
+	Today     : No work done.
+	Obstacles : None.
+
+Nov 26, 2017
+	Yesterday : No work done.
+	Today     : Worked on part 2, question 1.
+	Obstacles : None.
+	
+Nov 27, 2017
+	Yesterday : Worked on part 2.
+	Today     : Worked on part 1.
+	Obstacles : Understanding file I/O. 
+	
+Nov 28, 2017
+	Yesterday : Worked on part 1.
+	Today     : No work done.
+	Obstacles : None.
+	
+Nov 29, 2017
+	Yesterday : No work done.
+	Today     : No work done.
+	Obstacles : None.
+
+Nov 30, 2017
+	Yesterday : No work done. 
+	Today     : No work done. 
+	Obstacles : None.
+
+Dec 1, 2017
+	Yesterday : No work done.
+	Today     : Finished part 2, question 2.
+	Obstacles : None. 
+	
+Dec 2, 2017
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Dec 3, 2017
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Dec 4, 2017
+	Yesterday :
+	Today     :
+	Obstacles :
+	
+Dec 5, 2017
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Dec 6, 2017
+	Yesterday :
+	Today     :
+	Obstacles :
+	
